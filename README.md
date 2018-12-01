@@ -9,7 +9,7 @@ is possible to connect a other extern trigger through a BNC connector on the bac
 * Arduino nano
 * Arcade Pushbutton with LED
 * 2x 1k resistor
-* 2x optokouppler TLP624 or other
+* 2x optokouppler PC817 or other
 * slideswitch
 * 9V battery clip
 * [OPTIONAL] bnc solder connector male
