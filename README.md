@@ -33,6 +33,6 @@ But its has a focus and shutter trigger output so you can use it for other camer
 
 # PICTURES
 
-![Gopher image](/documentation/top.JPG)
-![Gopher image](/documentation/left.JPG)
-![Gopher image](/documentation/inside-2.JPG)
+![Gopher image](/documenation/top.JPG)
+![Gopher image](/documenation/left.JPG)
+![Gopher image](/documenation/inside-2.JPG)
