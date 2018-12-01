@@ -28,6 +28,8 @@ But its has a focus and shutter trigger output so you can use it for other camer
 
 
 
+# VIDEO
+[![Alt text](https://img.youtube.com/vi/3pIijfmjqSI/0.jpg)](https://www.youtube.com/watch?v=3pIijfmjqSI)
 
 # PICTURES
 
