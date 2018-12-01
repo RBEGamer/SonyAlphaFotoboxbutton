@@ -23,6 +23,7 @@ is possible to connect a other extern trigger through a BNC connector on the bac
 
 
 
+![Gopher image](/documenation/schematic.png.png)
 
 
 # 3D Printing
