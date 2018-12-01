@@ -30,7 +30,7 @@ is possible to connect a other extern trigger through a BNC connector on the bac
 To build the case you can print the files in the `/3d_printing_files` folder.
 I used a 0.4 nozzle, 0.2mm layer height on a AnetA8.
 
-![Gopher image](/documenation/3da.png)
+
 ![Gopher image](/documenation/3db.png)
 
 # VIDEO
