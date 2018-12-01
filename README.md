@@ -20,16 +20,17 @@ is possible to connect a other extern trigger through a BNC connector on the bac
 
 
 # SCHEMATIC
-
-
-
+See the schematic below to connect the Arduino to the camera via the optocouplers.
+Or you can use the gerberfiles `/src/cam_trigger.zip` to create a pcb
 ![Gopher image](/documenation/schematic.png)
+![Gopher image](/documenation/pcb.png)
 
-
-# 3D Printing
-
+# 3D PRINTING
 To build the case you can print the files in the `/3d_printing_files` folder.
 I used a 0.4 nozzle, 0.2mm layer height on a AnetA8.
+
+# SOFTWARE
+Flash the Arduino Sketch `/src/cam_flasher_sketch/cam_flasher_sketch.ino` to the Arduino-Nano. No libraries needed.
 
 
 ![Gopher image](/documenation/3db.png)
